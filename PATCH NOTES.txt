@@ -1,0 +1,42 @@
+1.4:
+__Aggressive Changes__
+-Naoto no longer speeds up the other characters and instead has more camera positions.
+-Rei can no longer land on the food she wants when flipping up the monitor.
+-Chie now waits to switch vents if Yukiko is in the other one.
+-Fixed Visualized Audio popup not appearing when Chie swapped vents.
+-Lowered Rise's timer down to 25 seconds.
+
+__Other Changes__
+-Kanji no longer permanently breaks cameras. They now come back after a while.
+-Teddie now pauses his movement when he's about to attack.
+-Slightly lowered how much time the Deployed Ghost text is on screen.
+-Made heat regen slightly faster.
+-Made Sauna raise the heat half as fast.
+-Fixed Naoto's movement timer increasing when in the Control Room.
+-Made Teddie's Human form eaiser to see on the Upstairs camera.
+-Made Teddie also wait for Chie if she's in the same vent.
+-Fixed "Deploying Ghost" and "NO SIGNAL" text layering ontop of each other.
+-Fixed the game saving every frame during the 6am seqeunce. Hopefully this stops crashing.
+
+**********************************************************************************************************
+1.35 HOTFIX Notes:
+-Band aid fix for your heat rising even though there's nobody in the Control Room.
+-Fixed Chie's scared audio not reseting the panning.
+-Fixed not being able to restart during the main night.
+
+**********************************************************************************************************
+
+1.3 Notes:
+-Fixed Naoto waiting until 2:00am to move.(she was NOT supposed to do that)
+-Slowed Naoto down slightly.
+-Tweaked Naoto's instruction popup to make it more clear that she moves like Chie and Yukiko.
+-Increased Rise's Aggressive timer to 30 seconds.
+-Teddie now waits when Yukiko is in the same vent AND in her attack phase.
+-Lowered Teddie's Aggressive Movement increase from 1.5 seconds to 0.5 seconds.
+                                                                                             
+-Hopefully fixed double jumpscare crash
+-Fixed time not preceding during Rest Uneasy.
+-Fixed being able to bring the spider into cameras.(no more frend :[)
+-Fixed Yukiko's head staying in the vent during the Rest Easy 3am change.
+
+-Gave TVs a decent cooldown so they won't immediately pop back up.
